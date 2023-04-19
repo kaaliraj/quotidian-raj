@@ -1,0 +1,1068 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:01.209 --> 00:00:03.159
+App Developer Raj:- Isn’t it AMMAAAZING??!
+
+00:00:03.159 --> 00:00:05.740
+App Tester Raj:- It has to be amazing, is
+it??
+
+00:00:05.740 --> 00:00:09.780
+App Developer Raj:- No, I mean, I just wanted
+to know if you liked it…
+
+00:00:09.780 --> 00:00:10.780
+App Tester Raj:- What do you mean?
+
+00:00:10.780 --> 00:00:11.780
+I am supposed to like it, eh??
+
+00:00:11.780 --> 00:00:12.849
+App Developer Raj:- … What do you feel?!
+
+00:00:12.849 --> 00:00:15.339
+App Tester Raj:- Feel?
+
+00:00:15.339 --> 00:00:26.630
+Where on earth are you bringing those things
+from?
+
+00:00:26.630 --> 00:00:28.730
+Feelings?
+
+00:00:28.730 --> 00:00:45.489
+Are we watching a movie here, or what??
+
+00:00:45.489 --> 00:00:47.590
+Namaste!
+
+00:00:47.590 --> 00:00:50.030
+Four Hundred and Thirty One!
+
+00:00:50.030 --> 00:00:52.570
+“Do you like it?”
+
+00:00:52.570 --> 00:00:53.840
+is the question.
+
+00:00:53.840 --> 00:00:57.399
+But, “Do you like it?”
+
+00:00:57.399 --> 00:00:59.309
+shouldn’t be the question.
+
+00:00:59.309 --> 00:01:07.350
+How to solicit user feedback, that is what
+we are going to talk about today.
+
+00:01:07.350 --> 00:01:09.490
+What is User Experience?
+
+00:01:09.490 --> 00:01:11.100
+What is Usability?
+
+00:01:11.100 --> 00:01:12.479
+If you look for the definition, it would run
+something like this.
+
+00:01:12.479 --> 00:01:14.350
+“The extend to which a product can be used
+by specified users to achieve specific goals
+
+00:01:14.350 --> 00:01:17.810
+with effectiveness, efficiency, and satisfaction
+in a specified context of use!”
+
+00:01:17.810 --> 00:01:27.960
+If we dwell in some more detail on the key
+words in this definition, first up, Users:
+
+00:01:27.960 --> 00:01:32.000
+Anybody can be a user, but who are you preparing
+this for… don’t try to please everybody,
+
+00:01:32.000 --> 00:01:40.190
+don’t try to build something that’ll be
+suitable for everybody, you’ll end up building
+
+00:01:40.190 --> 00:01:43.440
+something that’s not LOVED by anybody..
+
+00:01:43.440 --> 00:01:46.680
+So, target specific users.
+
+00:01:46.680 --> 00:01:51.229
+Then, Goals: What are we trying to help them
+achieve?
+
+00:01:51.229 --> 00:01:57.159
+Are you going to tell them they can achieve
+ANYTHING THEY WANT with this?
+
+00:01:57.159 --> 00:01:58.439
+That won’t work!
+
+00:01:58.439 --> 00:02:01.780
+There should be some things your product won’t
+do.
+
+00:02:01.780 --> 00:02:08.929
+Only then, you can target it at some things
+it will do very well.
+
+00:02:08.929 --> 00:02:15.629
+Similarly, we have to be Effective: I spent
+this much time and this much money..
+
+00:02:15.629 --> 00:02:19.890
+I couldn’t have done this well with any
+other tool.
+
+00:02:19.890 --> 00:02:22.190
+It should be effective.
+
+00:02:22.190 --> 00:02:24.110
+Easy.
+
+00:02:24.110 --> 00:02:26.040
+Understandable.
+
+00:02:26.040 --> 00:02:31.550
+Not causing any kind of difficulty for me
+in any form.
+
+00:02:31.550 --> 00:02:32.880
+Effective.
+
+00:02:32.880 --> 00:02:42.160
+Also, it should be Efficient: Minimising costs,
+minimising energy consumed, minimising the
+
+00:02:42.160 --> 00:02:46.629
+imprint, the carbon footprint perhaps, that
+is efficient.
+
+00:02:46.629 --> 00:02:52.569
+Finally, Satisfaction: It is pretty hard to
+measure it..
+
+00:02:52.569 --> 00:02:55.260
+They also call it Delight.
+
+00:02:55.260 --> 00:02:59.580
+That complete satisfaction, fulfilment they
+call it.
+
+00:02:59.580 --> 00:03:01.440
+You can’t enquire and find out.
+
+00:03:01.440 --> 00:03:06.180
+You may not also be able to understand it
+by watching.
+
+00:03:06.180 --> 00:03:12.480
+Perhaps you have to do this by befriending
+and habituating only!
+
+00:03:12.480 --> 00:03:15.989
+Google gifted us with a framework.
+
+00:03:15.989 --> 00:03:23.569
+A beautiful framework, and a beautiful acronym
+to go along with it too!
+
+00:03:23.569 --> 00:03:27.640
+Are you looking for feedback from the user?
+
+00:03:27.640 --> 00:03:29.379
+Use the HEART!
+
+00:03:29.379 --> 00:03:31.290
+What does this HEART stand for?
+
+00:03:31.290 --> 00:03:35.200
+First, H stands for Happiness.
+
+00:03:35.200 --> 00:03:44.110
+Are they just satisfied that they got the
+job done, or is there a hint of joy, a sense
+
+00:03:44.110 --> 00:03:46.070
+of delight, a blooming, a blossoming…
+
+00:03:46.070 --> 00:03:47.970
+Is there that little thing..
+
+00:03:47.970 --> 00:03:51.319
+it has happened to me many times, am sure
+it has happened to you too..
+
+00:03:51.319 --> 00:03:56.189
+You would be reading a book, and then, suddenly,
+you’d STEP OUT of the story and soliloquise..
+
+00:03:56.189 --> 00:04:00.280
+“Wow, what a beautiful plot twist that was,
+by the author!”
+
+00:04:00.280 --> 00:04:02.819
+Have you had that experience?!
+
+00:04:02.819 --> 00:04:05.550
+Similarly, you may be eating something..
+
+00:04:05.550 --> 00:04:11.120
+You will jump out of the dish that you are
+eating, and you would get into the mind of
+
+00:04:11.120 --> 00:04:13.360
+the person who cooked it..
+
+00:04:13.360 --> 00:04:17.150
+That jump is probably a great indication of
+Happiness..
+
+00:04:17.150 --> 00:04:23.820
+When you go, “This piece of software, wow,
+what a brainwave by Steve Jobs!”, that is
+
+00:04:23.820 --> 00:04:25.100
+Happiness.
+
+00:04:25.100 --> 00:04:29.130
+H. E stands for Engagement.
+
+00:04:29.130 --> 00:04:30.130
+What is Engagement?
+
+00:04:30.130 --> 00:04:37.560
+Once you start using it, you get immersed
+into it.
+
+00:04:37.560 --> 00:04:42.210
+You want to have a private conversation with
+that thing in front of you.
+
+00:04:42.210 --> 00:04:47.350
+Could be a product, could be a book, could
+be a movie, could be a dish you are eating,
+
+00:04:47.350 --> 00:04:48.350
+but…
+
+00:04:48.350 --> 00:04:49.350
+Engaged.
+
+00:04:49.350 --> 00:04:50.350
+I am not distracted.
+
+00:04:50.350 --> 00:04:53.880
+I am not doing ten things and this is the
+eleventh one.
+
+00:04:53.880 --> 00:04:55.760
+I am Engaged.
+
+00:04:55.760 --> 00:04:56.760
+A.
+
+00:04:56.760 --> 00:04:59.220
+A stands for Adoption.
+
+00:04:59.220 --> 00:05:01.060
+Okay..
+
+00:05:01.060 --> 00:05:02.090
+This seems new.
+
+00:05:02.090 --> 00:05:04.570
+I was using something else till now.
+
+00:05:04.570 --> 00:05:07.410
+I will start using this from now on.
+
+00:05:07.410 --> 00:05:09.080
+This ALSO from now on.
+
+00:05:09.080 --> 00:05:11.380
+When you say that, you are adopting.
+
+00:05:11.380 --> 00:05:14.680
+You are probably changing some habits.
+
+00:05:14.680 --> 00:05:16.650
+And you are being inclusive.
+
+00:05:16.650 --> 00:05:20.380
+You invite this thing into your inner circle.
+
+00:05:20.380 --> 00:05:24.190
+That is A. Adoption.
+
+00:05:24.190 --> 00:05:27.190
+That leads us to R. R would be Retention.
+
+00:05:27.190 --> 00:05:29.500
+You took me in.
+
+00:05:29.500 --> 00:05:35.759
+You liked me so much that you let the older
+relationship go!
+
+00:05:35.759 --> 00:05:41.160
+You say “I don’t need you anymore because
+I have got something far better!”
+
+00:05:41.160 --> 00:05:45.539
+So, that would be Retention.
+
+00:05:45.539 --> 00:05:52.069
+And finally, here is something that is fundamental
+to all these others, is Task Success.
+
+00:05:52.069 --> 00:05:54.509
+Why did you come here?
+
+00:05:54.509 --> 00:05:55.509
+To achieve something.
+
+00:05:55.509 --> 00:05:57.270
+To get something done.
+
+00:05:57.270 --> 00:06:03.280
+Are you able to complete it 100%? Or, did
+you need something else?
+
+00:06:03.280 --> 00:06:07.509
+Or did you find something lacking?
+
+00:06:07.509 --> 00:06:09.440
+That is Task Success.
+
+00:06:09.440 --> 00:06:14.789
+You came here to do something.
+
+00:06:14.789 --> 00:06:20.180
+Are you able to achieve that one hundred percent
+successfully?
+
+00:06:20.180 --> 00:06:21.180
+HEART.
+
+00:06:21.180 --> 00:06:23.370
+This lady, her name is Abby Covert.
+
+00:06:23.370 --> 00:06:25.419
+She has written a book.
+
+00:06:25.419 --> 00:06:26.660
+Two books actually.
+
+00:06:26.660 --> 00:06:31.880
+The first one is called “How to make sense
+of any mess”.
+
+00:06:31.880 --> 00:06:33.229
+What a name, eh?!
+
+00:06:33.229 --> 00:06:40.449
+But, hey.. when talking about appropriateness
+of names, what a name.. “Covert”..
+
+00:06:40.449 --> 00:06:43.180
+See the meaning of that word.
+
+00:06:43.180 --> 00:06:51.940
+A usability expert, a user experience specialist,
+an information architect, .. would such a
+
+00:06:51.940 --> 00:06:57.230
+person name themselves COVERT??
+
+00:06:57.230 --> 00:06:58.560
+Anyway…
+
+00:06:58.560 --> 00:07:08.410
+If you go to the fifth chapter of this book,
+it talks about getting user feedback and gives
+
+00:07:08.410 --> 00:07:18.720
+you eighteen, EIGHTEEN, different ways you
+have to be alert and aware to receive proper
+
+00:07:18.720 --> 00:07:20.910
+user feedback!
+
+00:07:20.910 --> 00:07:27.660
+You please spend some time, the book is free,
+available online, .. but I would like to underline
+
+00:07:27.660 --> 00:07:32.150
+just three of them which were.. kinda interesting!
+
+00:07:32.150 --> 00:07:35.690
+The first one is Murk.
+
+00:07:35.690 --> 00:07:45.950
+She says, “You built this product or cooked
+this dish or wrote this book or whatever for
+
+00:07:45.950 --> 00:07:46.950
+something..
+
+00:07:46.950 --> 00:07:51.590
+To achieve some end goal.
+
+00:07:51.590 --> 00:07:56.570
+Are users confused, about what else it can
+do?
+
+00:07:56.570 --> 00:08:00.710
+They call it Ekagra Chinthana.
+
+00:08:00.710 --> 00:08:03.440
+Focused on just one thing.
+
+00:08:03.440 --> 00:08:10.949
+Instead of that, hinting at capability in
+other domains too, is there a sense of murkiness
+
+00:08:10.949 --> 00:08:13.389
+to your offering?
+
+00:08:13.389 --> 00:08:15.009
+Check that!”
+
+00:08:15.009 --> 00:08:17.590
+The other thing she highlights is Competition.
+
+00:08:17.590 --> 00:08:22.280
+Are there many others doing the same thing
+the same way just like you?
+
+00:08:22.280 --> 00:08:23.569
+That would lead to murkiness too.
+
+00:08:23.569 --> 00:08:25.139
+“Why should I use this product?
+
+00:08:25.139 --> 00:08:28.720
+The same thing is possible with that other
+product too..”
+
+00:08:28.720 --> 00:08:34.310
+If Yahoo and Google were similar directories,
+Google wouldn’t have become famous.
+
+00:08:34.310 --> 00:08:40.709
+When there were forty other search engines
+doing the same thing, listing stuff as directories,
+
+00:08:40.709 --> 00:08:48.930
+along came Google, showed nothing on screen,
+just a box asking you “Are you feeling lucky?”..
+
+00:08:48.930 --> 00:08:52.050
+That… is differentiation!
+
+00:08:52.050 --> 00:08:53.430
+That differentiation is important.
+
+00:08:53.430 --> 00:08:56.610
+So, look at what competition does.
+
+00:08:56.610 --> 00:09:03.260
+And, another interesting thing she says is
+Backlash.
+
+00:09:03.260 --> 00:09:08.490
+You claim your product lets people do something.
+
+00:09:08.490 --> 00:09:12.390
+Do they make a mistake with your product?
+
+00:09:12.390 --> 00:09:20.060
+Some accident, some unexpected screwups, what
+kind of things can go wrong?
+
+00:09:20.060 --> 00:09:25.600
+Because your product is not easily understandable,
+because your users are… idiots..
+
+00:09:25.600 --> 00:09:28.730
+But, still, is your product accident-proof?
+
+00:09:28.730 --> 00:09:31.060
+Without complaints, without backlash?
+
+00:09:31.060 --> 00:09:32.220
+Check that!
+
+00:09:32.220 --> 00:09:33.220
+Interesting!
+
+00:09:33.220 --> 00:09:36.290
+She has listed eighteen such items.
+
+00:09:36.290 --> 00:09:38.610
+Go, check them out!
+
+00:09:38.610 --> 00:09:40.690
+But, I am going to take you elsewhere..
+
+00:09:40.690 --> 00:09:48.790
+When we talk about Feedback, when we talk
+about listening to our users, and about helping
+
+00:09:48.790 --> 00:09:54.959
+them, … we can go to the animal kingdom
+itself!
+
+00:09:54.959 --> 00:10:03.100
+Most birds, when they feed their chicks, they
+regurgitate the food..
+
+00:10:03.100 --> 00:10:09.950
+The stuff that they ate just a while ago,
+half-digested, they bring it back as a friendlier
+
+00:10:09.950 --> 00:10:18.210
+goo and offer it to the chicks.
+
+00:10:18.210 --> 00:10:19.210
+Pampering!
+
+00:10:19.210 --> 00:10:21.459
+That’s how the bird first tastes food!
+
+00:10:21.459 --> 00:10:26.380
+Have you seen mothers offer bottle-milk to
+the baby?
+
+00:10:26.380 --> 00:10:30.019
+They sprinkle a few drops of the milk on to
+the inside of their wrists!
+
+00:10:30.019 --> 00:10:32.610
+I asked my sister about it..
+
+00:10:32.610 --> 00:10:35.639
+Why on earth did she do it!?
+
+00:10:35.639 --> 00:10:38.670
+That’s when she explained it to me…
+
+00:10:38.670 --> 00:10:44.829
+If it is too hot, the child won’t be able
+to express it in words, it would just cry,
+
+00:10:44.829 --> 00:10:47.560
+… what if it scalded the tongue, the tender
+lips..?
+
+00:10:47.560 --> 00:10:56.610
+So, this is probably the only place in MY
+body which is closest in sensitivity to the
+
+00:10:56.610 --> 00:10:58.540
+baby’s tender skin!
+
+00:10:58.540 --> 00:10:59.540
+Wow!
+
+00:10:59.540 --> 00:11:07.940
+We have read about Dogfooding, and this is
+like the next level of Dogfooding!
+
+00:11:07.940 --> 00:11:12.930
+Do you remember this story in The Ramayana?
+
+00:11:12.930 --> 00:11:13.930
+Shabari..
+
+00:11:13.930 --> 00:11:18.649
+That old lady offers berries to Lord Rama.
+
+00:11:18.649 --> 00:11:22.780
+On his way into the jungle, … berries from
+the old lady.
+
+00:11:22.780 --> 00:11:27.890
+But, she doesn’t just offer a bunch to the
+Lord.
+
+00:11:27.890 --> 00:11:37.620
+She picks the best ones, the ones without
+worms, the ones that are, ripe, perfect, and
+
+00:11:37.620 --> 00:11:38.650
+how?
+
+00:11:38.650 --> 00:11:53.189
+She bites into them, tests them, tastes them,
+finalises, decides, and only then offers!
+
+00:11:53.189 --> 00:11:56.990
+Next level “taking care of the user”..
+
+00:11:56.990 --> 00:12:00.170
+Don’t you agree?!
+
+00:12:00.170 --> 00:12:04.410
+Onam is a festival.
+
+00:12:04.410 --> 00:12:07.950
+A big deal in Kerala.
+
+00:12:07.950 --> 00:12:08.950
+Mahabali reappears from underground.
+
+00:12:08.950 --> 00:12:09.950
+Connected with the Vamana Avatar.
+
+00:12:09.950 --> 00:12:18.550
+And, every year that he reappears, they celebrate
+his arrival, they worship him, it is a Harvest
+
+00:12:18.550 --> 00:12:19.550
+Festival of sorts.
+
+00:12:19.550 --> 00:12:26.589
+And, one of the highlights of the festival
+is Onam Sadhya.
+
+00:12:26.589 --> 00:12:28.540
+The big feast!
+
+00:12:28.540 --> 00:12:29.540
+Amazing feast!
+
+00:12:29.540 --> 00:12:34.190
+You can zoom in and look at the details of
+every dish out here.
+
+00:12:34.190 --> 00:12:42.350
+This is exactly how the traditional South
+Indian plantain leaf lunch is served.
+
+00:12:42.350 --> 00:12:44.829
+At my home too!
+
+00:12:44.829 --> 00:12:56.190
+My Grandma had very specific advice to my
+mom about what the woman should do when serving
+
+00:12:56.190 --> 00:12:58.019
+such a lunch.
+
+00:12:58.019 --> 00:13:01.180
+And, what was that?
+
+00:13:01.180 --> 00:13:03.300
+Watch and Learn.
+
+00:13:03.300 --> 00:13:05.260
+You cooked this stuff?
+
+00:13:05.260 --> 00:13:09.160
+You think your work is done with that?
+
+00:13:09.160 --> 00:13:10.160
+Nope!
+
+00:13:10.160 --> 00:13:11.160
+Go, serve it!
+
+00:13:11.160 --> 00:13:14.360
+And, after serving, watch!
+
+00:13:14.360 --> 00:13:16.170
+Watch from the kitchen doorway.
+
+00:13:16.170 --> 00:13:17.470
+See what He likes!
+
+00:13:17.470 --> 00:13:19.410
+See what He needs more of!
+
+00:13:19.410 --> 00:13:21.040
+See what He avoids eating…
+
+00:13:21.040 --> 00:13:27.560
+See what He tastes and crinkles up his eyebrows
+and turns up His nose because He doesn’t
+
+00:13:27.560 --> 00:13:30.810
+like the taste..
+
+00:13:30.810 --> 00:13:37.100
+Because these are powerful indicators for
+what worked out for you today in the kitchen!
+
+00:13:37.100 --> 00:13:39.500
+Watch, and Learn!
+
+00:13:39.500 --> 00:13:45.440
+And then, my Grandma would tell us the advice
+that she received from HER mother!
+
+00:13:45.440 --> 00:13:50.940
+You know what my Great Grandma told my Grandma?!
+
+00:13:50.940 --> 00:13:53.550
+Eat in the same plate!
+
+00:13:53.550 --> 00:14:01.550
+That is, the Husband will eat something in
+a plate, a silver plate, and this Grandma
+
+00:14:01.550 --> 00:14:06.980
+lady has to wait for Him to finish so that
+the same plate can be used, it seems.
+
+00:14:06.980 --> 00:14:08.149
+Why?
+
+00:14:08.149 --> 00:14:13.040
+She can immediately get feedback about what
+the Man didn’t like..
+
+00:14:13.040 --> 00:14:16.190
+What the Man left half-eaten..!
+
+00:14:16.190 --> 00:14:17.670
+Feedback, apparently!
+
+00:14:17.670 --> 00:14:18.670
+User..
+
+00:14:18.670 --> 00:14:19.670
+Customer..
+
+00:14:19.670 --> 00:14:20.670
+Feedback!
+
+00:14:20.670 --> 00:14:24.040
+Watch.. and Learn!
+
+00:14:24.040 --> 00:14:29.480
+But, we go to Jeyamohan.
+
+00:14:29.480 --> 00:14:31.250
+He gives a beautiful twist.
+
+00:14:31.250 --> 00:14:33.500
+In the fourteenth book of The Mahabharata.
+
+00:14:33.500 --> 00:14:37.209
+We have often returned to this fount of wisdom.
+
+00:14:37.209 --> 00:14:39.109
+The same series of books.
+
+00:14:39.109 --> 00:14:45.040
+The fourteenth book is the one that talks
+about the one-year incognito time.
+
+00:14:45.040 --> 00:14:49.649
+When the Pancha Pandavas don’t move around
+the Pancha Pandavas..
+
+00:14:49.649 --> 00:14:56.120
+They don different names, roles, attire, and
+merge into the crowd in the kingdom.
+
+00:14:56.120 --> 00:15:01.360
+During that time, Arjuna is a dance teacher…
+
+00:15:01.360 --> 00:15:03.399
+Bhima?
+
+00:15:03.399 --> 00:15:04.399
+Is in the kitchen.
+
+00:15:04.399 --> 00:15:05.760
+He is a master-chef.
+
+00:15:05.760 --> 00:15:18.560
+At this time, when Bhima is in the kitchen,
+they are narrated the story of Nala and Damayanthi.
+
+00:15:18.560 --> 00:15:23.779
+A famous king and his beautiful and powerful
+queen.
+
+00:15:23.779 --> 00:15:28.100
+They have similar backgrounds, both are amazing
+cooks.
+
+00:15:28.100 --> 00:15:30.940
+They cook so well!
+
+00:15:30.940 --> 00:15:35.089
+In fact, Nala wrote a full book it seems..
+
+00:15:35.089 --> 00:15:40.750
+That book is named Paaka Darpana.
+
+00:15:40.750 --> 00:15:42.899
+Nala Paakam, they often say.
+
+00:15:42.899 --> 00:15:44.290
+Darpana is mirror.
+
+00:15:44.290 --> 00:15:49.870
+An old man is talking to Bhima, who has just
+finished cooking.
+
+00:15:49.870 --> 00:15:56.579
+And, as Bhima is about to go serve the food,
+the old man stays his hand and says, “The
+
+00:15:56.579 --> 00:16:00.769
+tradition is different here.
+
+00:16:00.769 --> 00:16:04.490
+The ones who serve are different from the
+ones who cook.
+
+00:16:04.490 --> 00:16:15.750
+That those who cook shouldn’t serve too,
+is one of the precepts laid down by King Nala!”.
+
+00:16:15.750 --> 00:16:21.230
+And, Bhima immediately asks back, “Why so?!”
+
+00:16:21.230 --> 00:16:23.230
+Look at the answers!
+
+00:16:23.230 --> 00:16:33.610
+“The guy who has finished cooking would
+be feeling top of the world.
+
+00:16:33.610 --> 00:16:34.630
+He has done it.
+
+00:16:34.630 --> 00:16:35.630
+He has achieved it.
+
+00:16:35.630 --> 00:16:41.079
+He has… he has performed chemical magic!
+
+00:16:41.079 --> 00:16:44.310
+The person who is eating need not feel the
+same.
+
+00:16:44.310 --> 00:16:46.190
+He may be hungry.
+
+00:16:46.190 --> 00:16:47.829
+He may NOT be hungry.
+
+00:16:47.829 --> 00:16:54.509
+They may have various backgrounds, and hence
+their tastes, their appreciations will vary.
+
+00:16:54.509 --> 00:16:55.589
+Won’t they?!
+
+00:16:55.589 --> 00:16:58.610
+Each a different type, at every moment a different
+quality.
+
+00:16:58.610 --> 00:16:59.800
+Changing all the time.
+
+00:16:59.800 --> 00:17:07.809
+And so, it is possible that the person who
+cooked might get angry at the person who is
+
+00:17:07.809 --> 00:17:08.809
+eating..
+
+00:17:08.809 --> 00:17:13.779
+He might end up thinking that all the effort
+that he had put in the cooking is going unrecognised..
+
+00:17:13.779 --> 00:17:17.709
+The place one keeps a certain dish on the
+leaf, the sequence in which they eat the dishes,
+
+00:17:17.709 --> 00:17:23.380
+… may all become trigger points for the
+cook to fulminate!
+
+00:17:23.380 --> 00:17:31.160
+The person who cooked should not watch the
+terror and the horror that is happening on
+
+00:17:31.160 --> 00:17:32.840
+the plantain leaf.
+
+00:17:32.840 --> 00:17:41.300
+Each person may eat it in a different style!
+
+00:17:41.300 --> 00:17:44.669
+Leave it to them!
+
+00:17:44.669 --> 00:17:51.110
+You may be justified in that anger but that
+doesn’t mean you can do this when serving.
+
+00:17:51.110 --> 00:17:54.429
+You should do it with a smiling face always!”
+
+00:17:54.429 --> 00:17:58.280
+There is one more reason, the old man tells
+Bhima.
+
+00:17:58.280 --> 00:18:01.220
+And that is…
+
+00:18:01.220 --> 00:18:05.330
+“Nothing is a one man job.
+
+00:18:05.330 --> 00:18:08.010
+It is a teamwork.
+
+00:18:08.010 --> 00:18:12.510
+You may have cooked something, something else
+may have been cooked by somebody else, but
+
+00:18:12.510 --> 00:18:18.360
+when you are serving, without consciously
+realising it, you may add a little more of
+
+00:18:18.360 --> 00:18:20.820
+what you did, hoping they would give feedback…
+
+00:18:20.820 --> 00:18:22.770
+“Do you like this dish?!
+
+00:18:22.770 --> 00:18:26.650
+Shall I serve you one more Mysurpa!”
+
+00:18:26.650 --> 00:18:27.971
+That is not good manners either!
+
+00:18:27.971 --> 00:18:36.240
+The person who is a specialist server, he
+is going to treat all dishes equally..
+
+00:18:36.240 --> 00:18:42.240
+all dishes as if he cooked each and every
+one of them!
+
+00:18:42.240 --> 00:18:44.370
+And that is how it SHOULD be served!
+
+00:18:44.370 --> 00:18:52.690
+Basically, a great case for having a separate
+tester in every team!
+
+00:18:52.690 --> 00:18:57.299
+A separate usability engineer in every team!
+
+00:18:57.299 --> 00:19:03.750
+If the developer herself does the usability
+testing, if the designer herself plans the
+
+00:19:03.750 --> 00:19:10.350
+user experience, … it would end up like
+Bhima’s story!
+
+00:19:10.350 --> 00:19:11.350
+Beware!
+
+00:19:11.350 --> 00:19:17.730
+By the way, talking about the bird and regurgitation,
+I was reminded of this too..!
+
+00:19:17.730 --> 00:19:22.960
+There are two words in English — one is
+PAMPER.
+
+00:19:22.960 --> 00:19:25.390
+Go ahead, please pamper.
+
+00:19:25.390 --> 00:19:28.820
+Shower love and affection.
+
+00:19:28.820 --> 00:19:33.970
+Treat them as kings and queens.
+
+00:19:33.970 --> 00:19:37.760
+Go the extra mile for your customers.
+
+00:19:37.760 --> 00:19:38.929
+Praise them.
+
+00:19:38.929 --> 00:19:41.270
+Take care of them.
+
+00:19:41.270 --> 00:19:42.440
+No problem.
+
+00:19:42.440 --> 00:19:44.200
+Please do that!
+
+00:19:44.200 --> 00:19:50.110
+But, there is another word in English — Don’t
+PANDER.
+
+00:19:50.110 --> 00:19:58.730
+Pander is to gratify or indulge an immoral
+or distasteful desire!
+
+00:19:58.730 --> 00:20:08.870
+Whatever base, low level, cheap, vulgar desires
+are asked of you, to go ahead and fulfil them!
+
+00:20:08.870 --> 00:20:10.059
+Never do that.
+
+00:20:10.059 --> 00:20:16.440
+Watch this video a friend shared with me on
+Whatsapp.
+
+00:20:16.440 --> 00:20:19.470
+Pandering to the chick again and again, see
+what the mother-bird has wrought!
+
+00:20:19.470 --> 00:20:21.289
+See what the chick does!
+
+00:20:21.289 --> 00:20:42.980
+“It is enough to just stand next to it,
+the food will automatically come into the
+
+00:20:42.980 --> 00:20:46.170
+mouth!”, the chick seems to think!
+
+00:20:46.170 --> 00:20:51.309
+“All I need to do is to open my mouth wide!”..
+
+00:20:51.309 --> 00:20:54.190
+It hasn’t learned the ways of the world!
+
+00:20:54.190 --> 00:20:57.630
+Don’t do that to your users..
+
+00:20:57.630 --> 00:21:00.380
+They call it tough love!
+
+00:21:00.380 --> 00:21:05.260
+We will address this in one of our future
+episodes.
+
+00:21:05.260 --> 00:21:08.830
+Tough love is what you need to practise!
+
+00:21:08.830 --> 00:21:12.100
+Thank you!
+
+00:21:12.100 --> 00:21:20.280
+We will meet again soon!
+

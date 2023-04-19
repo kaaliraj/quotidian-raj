@@ -218,7 +218,7 @@ Quotidian - 217 - Ten Percent Or Ten X?!
 Quotidian - 218 - Bow To Code!
 Quotidian - 219 - Don't Overspeed!
 Quotidian - 220 - Q and A for 211 to 219
-Quotidian - 221 - Ask Around!
+Ask Five! - Quotidian - 221
 Quotidian - 222 - Problem As Solution!
 Quotidian - 223 - The Knowledge Debt!
 Quotidian - 224 - Labeling Perils!
@@ -426,3 +426,41 @@ Managing Kids! - Quotidian - 424
 Half Empty! - Quotidian - 425
 Netflix Lessons! - Quotidian - 426
 Synthesis! - Quotidian - 427
+Picking the Best! - Quotidian - 428
+Digit-Ally! - Quotidian - 429
+Q and A for 421 to 429— Quotidian — 430
+Do You Like It?! - Quotidian - 431
+Burn Out! - Quotidian - 432
+Sins of Memory! - Quotidian - 433
+Memory Hook! - Quotidian - 434
+Mind the Brain! - Quotidian - 435
+Despicable You! - 1 - Quotidian - 436
+Despicable You! - 2 - Quotidian - 437
+Alexa The Great! - Quotidian - 438
+Hidden Complexity! - Quotidian - 439
+Q and A for 431 to 439— Quotidian — 440
+2023 - Re-Solution! - Quotidian - 441
+Get Booked! - Quotidian - 442
+Apples vs Oranges! - Quotidian - 443
+Resilient! - Quotidian - 444
+Short Advice! - Quotidian - 445
+Market It! - Quotidian - 446
+Acknowledge! - Quotidian - 447
+Assessing Asses! - Quotidian - 448
+Stages Of Love! - Quotidian - 449
+Q and A for 441 to 449— Quotidian — 450
+Sins You’re Learning! - Quotidian - 451
+Feedback Fundas! - Quotidian - 452
+Driverless! - Quotidian - 453
+Boating Lesson! - Quotidian - 454
+Layered Goals! - Quotidian - 455
+12 Rules for Life! - Quotidian - 456
+The Fine Print! - Quotidian - 457
+The Greater Good! - Quotidian - 458
+Failing To Learn! - Quotidian - 459
+Q and A for 451 to 459— Quotidian — 460
+Deep Sea Advice! - Quotidian - 461
+Mental Models! - Quotidian - 462
+Forever Skills! - Quotidian - 463
+Just A Minute! - Quotidian - 464
+Signs of Happiness! - Quotidian - 465
